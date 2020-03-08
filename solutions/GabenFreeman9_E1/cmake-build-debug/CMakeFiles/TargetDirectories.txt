@@ -1,3 +1,0 @@
-D:/Gaben/C++/Studia/solutions/GabenFreeman9_E1/cmake-build-debug/CMakeFiles/GabenFreeman9.dir
-D:/Gaben/C++/Studia/solutions/GabenFreeman9_E1/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/Gaben/C++/Studia/solutions/GabenFreeman9_E1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
