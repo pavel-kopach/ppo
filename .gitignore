@@ -31,3 +31,8 @@
 *.out
 *.app
 *.idea
+solutions/*/.idea
+solutions/*/cmake-build-debug
+*/*/*/.idea
+*/*/*/cmake-build-debug
+

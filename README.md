@@ -31,6 +31,8 @@ Prosta "baza danych" - etap 2
     Napisz funkcję remove_student(), której zadaniem jest usunięcie studenta z bazy
     Napisz funkcje load_students() oraz save_students() które wczytują/zapisują dane studentów z/do pliku
 
+Zadanie "rozgrzewkowe" oddajemy jako jeden działający program.
+
 *******************************************************************
 1. Zakładamy konto na github zgodnie z instrukcją: https://education.github.com/pack
 2. Pobieramy i instalujemy CLion: https://poradnik.napwr.pl/oprogramowanie
